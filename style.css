@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+}
+img{
+	width: 350px;
+	height: 300px;
+}
+#slideshow{
+	background: linear-gradient(#21ded1 0%,#cf257d 100% );
+}
+span{
+	background: (#40ff00 0%,#f2ff00 100%);
+}
